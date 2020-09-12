@@ -11,7 +11,7 @@
   <body>
   <h1>Лампочка гори!</h1>
   <div class="lampBody">
-    <img src="img/lampOff.jpg" alt="off">
+    <img src="img/lamp-off.png" alt="off">
   </div>
   <div>
     <button class="on"></button>
