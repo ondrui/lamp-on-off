@@ -10,14 +10,15 @@
   </head>
   <body>
   <h1>Лампочка гори!</h1>
-  <div class="lampBody">
-    <img src="img/lamp-off.png" alt="off">
-  </div>
-  <div>
-    <button class="on"></button>
-    <button class="off"></button>
-  </div>
-   
+  <div class="lampAll">
+    <div class="lampBody">
+      <img src="img/lamp-off.png" alt="off" class="lamp">
+    </div>
+    <div class="btn">
+      <button class="on"></button>
+      <button class="off"></button>
+    </div>
+  </div> 
     <script src="script.js"></script>
     
   </body>
