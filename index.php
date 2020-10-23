@@ -6,7 +6,7 @@
     
      <link rel="stylesheet" href="style.css">
   
-    <title>Лампочка</title>
+    <title>Лампочка 111</title>
   </head>
   <body>
   <h1>Лампочка гори!</h1>
